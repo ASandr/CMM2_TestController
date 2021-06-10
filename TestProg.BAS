@@ -1,7 +1,8 @@
 '**************************************************
-'* Program fot testing WII Controller Classic Pro *
+'* Program for testing WII Controller Classic Pro *
 '* Author: Alexandrov A.S.                        *
 '* Date: 10 JUNE 2021                             *
+'* Version: 1.0                                   *
 '**************************************************
 
 MODE 1,16 '800x600 16 bits colour
